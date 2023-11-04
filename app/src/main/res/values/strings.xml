@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name" translatable="false">MedicinalPlant</string>
+    <string name="greetings">Hello Learner! Kindly Select your preferred language.</string>
+    <string name="welcome">Hello Learner! Welcome to our App. Just Upload the photo of the plant and get the all the medicinal benefits of it. :)</string>
+    <string name="select_language">Select your preferred language</string>
+    <string name="usage">Usage</string>
+    <string name="select">Select</string>
+    <string name="apply">Apply</string>
+    <string name="gallery">Gallery</string>
+    <string name="detect">Detect Plant</string>
+    <string name="submit" translatable="false">Submit</string>
+    <string name="English" translatable="false">English</string>
+    <string name="plant_image" translatable="false">Plant Image</string>
+    <string name="acacia_gumefora">Acacia Gumefora</string>
+    <string name="agave_sisal">Agave Sisal</string>
+    <string name="ajuga">Ajuga</string>
+    <string name="allophylus">Allophylus</string>
+    <string name="aloe_ankoberenisis">Aloe Ankoberenisis</string>
+    <string name="aloe_debrana">Aloe Debrana</string>
+    <string name="archirantus">Archirantus</string>
+    <string name="bederjan">Bederjan</string>
+    <string name="beresemma_abysinica">Beresemma Abysinica</string>
+    <string name= "bide">Biden</string>
+    <string name= "calpurnia">Calpurnia</string>
+    <string name= "carissa_spinanrum">Carissa Spinanrum</string>
+    <string name= "chaenopodium">Chenopodium</string>
+    <string name= "chlorodundurum">Chlorodundurum</string>
+    <string name= "climatis">Climatis</string>
+    <string name= "clutea">Clutea</string>
+    <string name= "cordia">Cordia</string>
+    <string name= "crotun">Crotun</string>
+    <string name= "dovianus">Dovianus</string>
+    <string name= "eberighia">Eberighia</string>
+    <string name= "echinoopes_kebericho" translatable="false">Echinopes Kebericho</string>
+    <string name= "ficus_sur">Ficus_Sur</string>
+    <string name= "hagnia_abbysinica">Hagnia Abbysinica</string>
+    <string name= "jesminium">Jesminium</string>
+    <string name= "laggerai">Laggeria</string>
+    <string name= "leontes">Leonotes</string>
+    <string name= "leucas">Leucas</string>
+    <string name= "linipia_adonesisi">Linipia Adonesisis</string>
+    <string name= "lobelia_rehinopetanum">Lobelia Rehinopetanum</string>
+    <string name= "melitia">Melitia</string>
+    <string name= "messa_lanceolata">Messa Lanceolata</string>
+    <string name= "osirus">Osirus</string>
+    <string name= "phutolleca">hytolleca</string>
+    <string name= "plantago">Plantago</string>
+    <string name= "rumes_abbysinica">Rumex Abbysinica</string>
+    <string name= "rumix_nervo">Rumix Nervo</string>
+    <string name= "senecio">enecio</string>
+    <string name= "stephania_abbysinica">Stephania Abbysinica</string>
+    <string name= "thymus_schimperia">Thymus Schimperia</string>
+    <string name= "uritica">Uritica</string>
+    <string name= "verbasucum">Verbasucum</string>
+    <string name= "vernonia_amag">Vernonia Amag</string>
+    <string name= "vernonia_leop">Vernonia Leop</string>
+    <string name= "zeneria_scabra">Zeneria Scabra</string>
+    <string name="Hindi" translatable="false">हिंदी</string>
+    <string name="Gujarati" translatable="false">ગુજરાતી</string>
+    <string-array name="langs">
+        <item>"en"</item>
+        <item>"hi"</item>
+        <item>"gu"</item>
+    </string-array>
+    <string name="change_language">Change language</string>
+</resources>
