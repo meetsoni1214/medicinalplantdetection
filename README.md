@@ -1,2 +1,2 @@
 # medicinalplantdetection
-Our App Detects Medicinal Plants from the photo or image and also give its usage of it. 
+Our App Detects Medicinal Plants from the photo or image and also gives all the usage of it. 
